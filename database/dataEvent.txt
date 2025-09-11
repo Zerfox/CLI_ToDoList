@@ -1,0 +1,42 @@
+{
+  "1": {
+    "Name": "1",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:20.402090722+03:00"
+  },
+  "111": {
+    "Name": "111",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:21.42425056+03:00"
+  },
+  "2": {
+    "Name": "2",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:41.750180424+03:00"
+  },
+  "222": {
+    "Name": "222",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:38.287109243+03:00"
+  },
+  "add": {
+    "Name": "add",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:35.241541643+03:00"
+  },
+  "done": {
+    "Name": "done",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:40.107363385+03:00"
+  },
+  "exit": {
+    "Name": "exit",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:55.073933417+03:00"
+  },
+  "list": {
+    "Name": "list",
+    "Error": null,
+    "CreateTime": "2025-09-12T00:31:44.002490092+03:00"
+  }
+}
